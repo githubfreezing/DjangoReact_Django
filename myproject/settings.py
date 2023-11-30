@@ -25,8 +25,8 @@ SECRET_KEY = "django-insecure-fssp3kjzp7i%kufo4nhgoc87_rtgwelzp@o@lg4%1p2(gzj%8i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
-
+#ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["https://djangoreact-react.onrender.com", "https://djangoreact-django.onrender.com"]
 
 # Application definition
 
